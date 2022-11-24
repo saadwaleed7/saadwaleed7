@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision and IoT **
 
-- 👨‍💻 All of my projects are available at [https://github.com/saadwaleed7/My_Projects](- https://github.com/saadwaleed7/My_Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/saadwaleed7/My_Projects](https://github.com/saadwaleed7/My_Projects)
 
 - 📫 How to reach me **saadwaleed2019@gmail.com**
 
