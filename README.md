@@ -4,11 +4,11 @@
   <p>Crafting high-performance web applications with a focus on seamless user experiences.</p>
 
   <p>
-    <a href="https://linkedin.com](https://www.linkedin.com/in/saad-waleed-083933401)" target="_blank">LinkedIn</a> • 
-    <a href="https://facebook.com](https://www.facebook.com/share/1CYJDg3qPh/)" target="_blank">Facebook</a> • 
+    <a href="https://www.linkedin.com/in/saad-waleed-083933401" target="_blank">LinkedIn</a> • 
+    <a href="https://www.facebook.com/share/1CYJDg3qPh/" target="_blank">Facebook</a> • 
     <a href="mailto:saadw7549@gmail.com">Email</a> •
-    <a href="https://github.com">Portfolio</a>
-    <a href="https://drive.google.com/file/d/1aUqxlz3MBxMHUkVwjqM0RofSyP3lcqFt/view?usp=sharing" target="_blank"><b>  📄 Download CV</b></a> • 
+    <a href="https://github.com" target="_blank">Portfolio</a> •
+    <a href="https://drive.google.com/file/d/1aUqxlz3MBxMHUkVwjqM0RofSyP3lcqFt/view?usp=sharing" target="_blank"><b>📄 Download CV</b></a>
   </p>
 </div>
 
