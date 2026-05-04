@@ -12,6 +12,7 @@
 <p align="left">
   <!-- Angular -->
   <img src="https://wikimedia.org" width="45" height="45" alt="angular"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"     alt="scikit_learn" width="40" height="40"/>
   <!-- TypeScript -->
   <img src="https://wikimedia.org" width="45" height="45" alt="typescript"/>
   <!-- JavaScript -->
