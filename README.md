@@ -34,17 +34,7 @@
 
 ---
 
-### 🚀 Featured Project
-**[Nail Disease Detection Model](https://github.com)**
-*A Deep Learning model developed as a graduation project to assist in medical diagnostics.*
-
----
-
 ### 📊 GitHub Insights
-<div align="center">
-  <img src="https://vercel.app" />
-</div>
-
 <p align="center">
   <i>"Code is poetry, and design is the rhythm."</i>
 </p>
