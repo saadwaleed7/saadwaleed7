@@ -15,7 +15,7 @@
 ---
 
 ### 🎓 Professional Background
-*   **Education:** Graduate of Computer Science - **FCIS, ASU** (Class of 2024).
+*   **Education:** Graduate of Computer Science - **FCIS, ASU**.
 *   **Role:** Currently working as a **Frontend Developer (Angular)** and **UI/UX Designer**.
 *   **Key Focus:** Bridging the gap between complex logic and intuitive design.
 
