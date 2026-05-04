@@ -15,7 +15,7 @@
 - 🎯 My goal is to create high-performance web applications with world-class user interfaces.
 - 🎨 I bridge the gap between design and functionality, ensuring pixel-perfect implementations.
 - 👨‍💻 My Portfolio: [Explore My Projects](https://github.com)
-- 📫 Professional Contact: **saadwaleed2019@gmail.com**
+- 📫 Professional Contact: **saadw7549@gmail.com**
 
 ---
 
