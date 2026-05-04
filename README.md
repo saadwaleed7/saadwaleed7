@@ -1,40 +1,39 @@
-<h1 align="center">Hi 👋, I'm Saad Waleed Saad</h1>
-<h3 align="center">Professional Frontend Developer (Angular) & UI/UX Designer</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Saad Waleed</h1>
+  <h3>Professional Frontend Developer (Angular) & UI/UX Designer</h3>
+</div>
 
+---
+
+### 👨‍💻 Professional Summary
 - 🎓 Graduate of **Computer Science - FCIS, ASU**
 - 💼 Currently working as a **Frontend Developer & UI/UX Designer**
-- 👨‍💻 All of my projects are available at [https://github.com](https://github.com)
-- 📫 Contact: **saadw7549@gmail.com**
+- 👨‍💻 All of my projects: [saadwaleed7 Projects](https://github.com)
+- 📫 Email: **saadwaleed2019@gmail.com**
 
 ---
 
-### 💻 Frontend & Angular Stack
-<p align="left">
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Angular" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="TypeScript" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="JavaScript" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="HTML5" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="CSS3" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Bootstrap" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Sass" />
-</p>
+### 🚀 Frontend & Angular Stack
+![Angular](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Bootstrap](https://shields.io)
+![Sass](https://shields.io)
 
 ### 🎨 UI/UX Design Tools
-<p align="left">
-  <img src="https://vectorlogo.zone" width="45" height="45" alt="Figma" />
-  <img src="https://vectorlogo.zone" width="45" height="45" alt="Adobe XD" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Photoshop" />
-</p>
+![Figma](https://shields.io)
+![Adobe XD](https://shields.io)
+![Photoshop](https://shields.io)
 
 ### 🛠 Tools & Languages
-<p align="left">
-  <img src="https://vectorlogo.zone" width="45" height="45" alt="Git" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="Python" />
-  <img src="https://jsdelivr.net" width="45" height="45" alt="MySQL" />
-</p>
+![Git](https://shields.io)
+![Python](https://shields.io)
+![MySQL](https://shields.io)
 
 ---
 
-<p align="center">
-  <img src="https://vercel.app" alt="Stats" />
-</p>
+### 📊 GitHub Profile Stats
+![Saad's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
