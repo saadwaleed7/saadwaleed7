@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://vercel.app|%20Frontend%20&%20UI/UX&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://vercel.app|%20UI/UX%20Designer&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <h2>🚀 Professional Frontend Developer (Angular) & UI/UX Designer</h2>
-  <p>Building seamless digital experiences with clean code and user-centric design.</p>
+  <h2>🚀 Software Engineer & UI/UX Specialist</h2>
+  <p>Crafting high-performance web applications with a focus on user experience.</p>
 </div>
 
 ---
@@ -12,14 +12,13 @@
 ### 👨‍💻 About Me
 - 🎓 Graduate of **Computer Science - FCIS, ASU**.
 - 💼 Currently working as a **Frontend Developer (Angular)** & **UI/UX Designer**.
-- 🎯 My goal is to create high-performance web applications with world-class user interfaces.
-- 🎨 I bridge the gap between design and functionality, ensuring pixel-perfect implementations.
+- 🎨 Passionate about bridging the gap between design and clean, scalable code.
 - 👨‍💻 My Portfolio: [Explore My Projects](https://github.com)
-- 📫 Professional Contact: **saadw7549@gmail.com**
+- 📫 Professional Contact: **saadwaleed2019@gmail.com**
 
 ---
 
-### 🛠 Professional Tech Stack
+### 🛠 Technical Skills
 
 **Frontend Engineering:**
 <p align="left">
@@ -31,15 +30,14 @@
   <img src="https://shields.io" />
 </p>
 
-**UI/UX Design & Prototyping:**
+**UI/UX Design:**
 <p align="left">
-  <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
 </p>
 
-**Other Technical Skills:**
+**Tools & Others:**
 <p align="left">
   <img src="https://shields.io" />
   <img src="https://shields.io" />
@@ -48,15 +46,15 @@
 
 ---
 
-### 📊 Professional Metrics
-<p align="center">
-  <img width="48%" src="https://vercel.app" />
-  <img width="48%" src="https://vercel.app" />
-</p>
+### 📊 GitHub Activity
+<div align="center">
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://herokuapp.com" />
-</p>
+</div>
 
 ---
 
